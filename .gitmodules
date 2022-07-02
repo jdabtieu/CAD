@@ -1,0 +1,3 @@
+[submodule "CTFplatform"]
+	path = CTFplatform
+	url = https://github.com/jdabtieu/CTFplatform
